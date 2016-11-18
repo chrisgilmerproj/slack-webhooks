@@ -2,6 +2,10 @@
 
 A small api for interacting with Slack Webhooks
 
+## Thanks
+
+Inspired by [slackr](https://github.com/os/slacker).
+
 ## Example
 
 ```py
